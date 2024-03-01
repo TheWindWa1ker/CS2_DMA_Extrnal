@@ -1,5 +1,5 @@
 # CS2_DMA_Extrnal
-基于 [CS2_Extrnal](https://github.com/TKazer/CS2_External)   的DMA版/n
+基于 [CS2_Extrnal](https://github.com/TKazer/CS2_External)   的DMA版                                                       
 based on [CS2_Extrnal](https://github.com/TKazer/CS2_External)   
 
 ![D7V%LV` TSUF4_%WA HI~UI](https://github.com/MoZiHao/CS2_DMA_Extrnal/assets/31085148/eefea6bf-b10d-49b0-8f21-94aac218d841)
